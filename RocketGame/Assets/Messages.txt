@@ -1,0 +1,36 @@
+Level 1:
+
+Welcome Captain.\n 
+Your training has just started.\n 
+Use 'A', 'D' and 'Space' to control your rocket. \n 
+Fly to the next platform and collect as many stars as you can.\n 
+
+
+Level 2:
+
+Congratulations, Captain. 
+You completed your training.
+Your first mission: Fly to the moon.
+And remember: Don't hit anything.
+Good luck.
+
+
+Level 3: 
+
+Captain, outer space is waiting for us. 
+Your next mission: Fly to the mars to build an outpost.
+Good luck.
+
+Level 4:
+
+Captain, the outpost is completed. 
+Your next mission: Make sure, no alien life forms exist on the planet.
+Good luck.
+
+
+Level 5:
+
+Congratulations, Captain.
+You are at the perfect spot to continue your journey. 
+Your next mission: Find an asteroid big enough to build the next outpost.
+Good luck.

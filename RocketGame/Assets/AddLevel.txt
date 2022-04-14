@@ -1,0 +1,6 @@
+Add to Building settings the appropriate level
+Add one level to the GameManager with the appropriate buildindex
+Add the Level in Levels of ChooseLevel
+Add a LevelButton and the Stars in ChooseLevel (can copy it from the other levels)
+Set the LevelButton to OnLevelSelect and choose the right buildindex of the Level
+Add the Level GameObject to the MainMenuUI LevelList

@@ -1,0 +1,77 @@
+Arbeitsverteilung:
+
+
+
+Martin:
+	- Sound:
+		- Alle Sound Effekte (Explosion, Collect Item, Finish Level)
+		- Hintergrundmusik (selbst geschrieben)
+	- Modelle:
+		- Planeten Model 
+		- Fueltank
+	- Logik:
+		- Grosser Teil der Hauptlogik:
+			- Shop System
+			- Achievements
+			- Settings (Audio ingame einstellen)
+			- Steuerung der Rakete
+			- Alle Manager (GameManager, SoundManager, AchievementManager, Teile des UI Managers, UIMainMenu)
+
+
+Nina:
+	- Modelle & Materials:
+		- Rakete:
+			- Blender-Modell
+			- Unity Material
+		- Start- und Landeplattform
+			- Verfeinern des Blender-Modells von Elliot
+			- Unity Material
+		- Sterne
+			- Blender-Modell
+			- Unity Material
+
+	- Logik:
+		- Verhalten der Tankanzeige
+		- Speichern, welche Sterne eingesammelt wurden
+
+	- Design: 
+		- UI-Prefab
+		- Main Menu
+		- Sprites / Icons
+		- Hintergrundbilder
+
+
+Elliot:
+	- Modelle:
+		- Erdenmodell:
+			- Blender-Modell
+			- Blender-Textur
+			- Unity Material
+
+		- Asteoriden:
+			- 8* Blender-Modell (High- und Low-Poly)
+			- 8* Normal Map
+			- 8* Height Map
+			- eine passende Textur
+			- 8* Unity Material
+			- teilweise entsprechende Prefabs
+
+		- Mond/Mars:
+			- Unity Material
+
+		- Start- und Landeplattform:
+			- erster Entwurf für Blender-Modell
+			- erster Entwurf für Unity-Materials
+
+		- Rakete:
+			- erster Entwurf für Blender-Modell
+
+		- Sonstiges:
+			- MountainMaterial
+			- WaterMaterial
+
+	- Leveldesign:
+		- vollständige Szenen für alle Level
+		- Skript "Waypoint" zum Anzeigen der Landeplattform
+		- Skript "asteroidShower" zum Animieren von Level3
+		- Skript "Spinner" zum Rotieren von Asteroiden
